@@ -184,4 +184,4 @@ This repository serves as the official landing page for ADInstruments Event Mana
 **Get the most recent version of ADInstruments Event Manager today!**
 
 ---
-**Last updated:** 2026-11-07 22:25:01 UTC
+**Last updated:** 2026-11-08 01:55:22 UTC
